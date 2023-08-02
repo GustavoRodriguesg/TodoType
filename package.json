@@ -1,5 +1,6 @@
 {
-  "name": "todo",
+  "homepage": "https://GustavoRodriguesg.github.io/todoType/",
+  "name": "todo-t",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
